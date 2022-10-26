@@ -1,7 +1,7 @@
 # html_email_sample3
 Personalized HTML template for a Portfolio service seeking service or rather a brief and simple introduction of an individual offering services.
 
-<img src="#" width="846" height="880" alt="">             
+<img src="https://github.com/ShaviyaVictor/html_email_sample3/blob/main/assets/images/portfolio_html.png?raw=true" width="846" height="880" alt="">             
 
 ## Built With
 
